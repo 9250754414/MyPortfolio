@@ -1,0 +1,333 @@
+
+
+body {
+  margin: 0;
+  width: 70%;
+  height: 100%;
+  font-size: 16px;
+  line-height: 32px;
+  color: #222222;
+  background-color: #f2f4f6;
+  background-image: url("");
+  background-repeat: no-repeat;
+  margin: auto auto;
+}
+
+ul{
+  font-family: 'PT Serif Caption', serif;
+}
+
+section div {
+  border: 15px solid #AFEEEE; /* Рамка */
+  -moz-box-sizing: border-box; /* Для Firefox */
+  -webkit-box-sizing: border-box; /* Для Safari и Chrome */
+  box-sizing: border-box;
+}
+
+h1 {
+
+  color: black;
+  font-size: 22px;
+  font-weight: normal;
+  line-height: 48px;
+  text-align: left;
+  font-weight: bold;
+  margin: 0;
+}
+
+
+.border h1 {
+  padding-left: 25px;
+  padding-bottom: 5px;
+  padding-top: 10px;
+  font-family: 'PT Serif Caption', serif;
+ }
+
+ .border a{
+   text-decoration:none;
+   padding-left: 25px;
+ }
+
+ .page-header {
+   width: 100%;
+   height: 160px;
+   border-top: 20px solid #4682B4;
+   background: #FFF0F5;
+ }
+
+ .heading2 {
+   font-size: 25px;
+   line-height: 20px;
+   background-position:top;
+   text-align: left;
+   background: white;
+ }
+
+ .heading {
+   margin: 0 0 16px;
+   font-size: 30px;
+   line-height: 44px;
+   font-weight: 70;
+   font-family: 'Russo One', sans-serif;
+ }
+
+ .subheading {
+   margin: 0 0 16px;
+   font-size: 20px;
+   line-height: 5px;
+   font-weight: 40;
+ }
+
+ .container {
+   width: 67%;
+   height: 100%;
+   padding-top: 18px;
+   float: right;
+ }
+
+.container h1 {
+  padding-bottom: 5px;
+  padding-top: 25px;
+}
+
+.photo {
+  width: 20%;
+  float:left;
+  height: 100%;
+  padding-left: 122px;
+  padding-top: 18px;
+  }
+
+.avatar {
+    border-radius: 50%;
+  }
+
+.right
+{
+  background: white;
+  float: right;
+  width: 35%;
+  height: 1000px;
+  text-align: left;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.left
+{
+  width:65%;
+  height: 1300px;
+  float: left;
+  background: #AFEEEE;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.border
+{
+  border: 30px solid #AFEEEE; /* Рамка */
+  -moz-box-sizing: border-box; /* Для Firefox */
+  -webkit-box-sizing: border-box; /* Для Safari и Chrome */
+  box-sizing: border-box;
+  background: #AFEEEE;
+  width: 100%;
+  height: 1350px;
+}
+
+.language {
+  height: 17%;
+  width: 100%;
+}
+
+.language p{
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 18px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-top: 1px;
+  line-height: 4px;
+}
+
+.contact {
+  height: 22%;
+  width: 100%;
+}
+
+.contact .marker {
+  padding-left: 30px;
+}
+
+.skills {
+  height: 35%;
+  width: 100%;
+}
+
+.education {
+  height: 24%;
+  width: 100%;
+  line-height: 4px;
+}
+
+.education a {
+  font-size: 16px;
+}
+
+.education p {
+  font-size: 14px;
+  padding-left: 25px;
+}
+
+.education .marker {
+  padding-left: 30px;
+}
+
+.curse {
+  height: 18%;
+  width: 100%;
+  background: white;
+  line-height: 4px;
+}
+
+.curse a{
+  font-size: 15px;
+}
+
+.curse p {
+  font-size: 15px;
+  padding-left: 25px;
+}
+
+.about {
+  height: 50%;
+  width: 100%;
+  background: white;
+}
+
+.about a {
+  margin-left: 25px;
+  color: inherit;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+  font-size: 14px;
+  margin: 0 0 12px;
+  padding-right: 25px;
+  padding-left: 25px;
+}
+
+.about p {
+  font-family: 'Cormorant Garamond', serif;
+  color: black;
+  font-size: 18px;
+  line-height: 22px;
+  margin: 0 0 24px;
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: justify;
+}
+
+.Myprogect{
+  height: 45%;
+  width: 100%;
+  background: white;
+}
+
+.images{
+  width: 28%;
+  height:100%;
+  float:left;
+}
+
+.images section {
+  width: 100%;
+  height:25%;
+  padding-top: 20px;
+}
+
+.about2 section{
+  width: 100%;
+  height:25%;
+}
+
+.about2 {
+  width: 53%;
+  height:100%;
+  padding-right: 25px;
+  float: right;
+  color: black;
+  line-height: 22px;
+  margin: 0 0 14px;
+  text-align: justify;
+}
+
+.about2 p{
+  font-size: 17px;
+}
+
+.aboutmarket h2{
+  font-family: 'PT Serif Caption', serif;
+  font-size: 17px;
+  line-height: 6px;
+  color: black;
+  margin-top: auto;
+  margin-bottom: 4px;
+}
+
+
+.imarket h2 {
+  font-family: 'PT Serif Caption', serif;
+  font-size: 17px;
+  line-height: 6px;
+  color: black;
+  margin-top: auto;
+  margin-bottom: 4px;
+}
+
+.imarket{
+  margin-top: 20px;
+}
+
+.button {
+  padding: 6px 20px;
+  display: inline-block;
+  vertical-align: baseline;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 4px;
+  background-color: #288be6;
+  color: #ffffff;
+}
+
+.footer {
+  background-color: #4682B4 ;
+  color: #ffffff;
+  width: 100%;
+  height: 30px;
+}
+
+.year {
+  text-align: center;
+  color: black;
+  background: #4682B4;
+  height: 27px;
+}
+
+.footer a {
+  margin-left: 120px;
+  color: inherit;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.footer-email {
+  padding-left: 20px;
+  background-image: url("img/icon-email-footer.svg");
+}
+
+.html{
+padding-left: 5px;
+}
+
+.footer-phone {
+  padding-left: 20px;
+  background-image: url("img/icon-phone-footer.svg");
+}
